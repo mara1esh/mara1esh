@@ -13,6 +13,8 @@ Currently based in Kyiv, Ukraine 🇺🇦
 - love olives;
 - would like to learn Portuguese.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mara1esh)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **mara1esh/mara1esh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
