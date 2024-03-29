@@ -12,7 +12,6 @@ Currently based in Kyiv, Ukraine 🇺🇦
 - participated in volunteer projects;
 - love olives;
 - would like to learn Portuguese.
-- 
 <!--
 **mara1esh/mara1esh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
