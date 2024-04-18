@@ -3,7 +3,7 @@
 My name is Valerii and I'm a passionate Front-End engineer with WEB3 background 🛠 
 Among many frontend frameworks, tools, and technologies my favorites are TypeScript, React.js, Remix.run, Tailwind CSS, Radix UI, Vite, pnpm 💎
 Maintainer of [gtm-react-hook](https://github.com/mara1esh/gtm-react-hook) 📊
-Currently based in Kyiv, Ukraine 🇺🇦
+Based in Kyiv, Ukraine 🇺🇦
 
 #### Personal achievements and fun facts:
 - 4 years of experience in software engineering;
