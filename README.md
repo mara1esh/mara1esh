@@ -6,7 +6,7 @@ Maintainer of [gtm-react-hook](https://github.com/mara1esh/gtm-react-hook) 📊
 Based in Kyiv, Ukraine 🇺🇦
 
 #### Personal achievements and fun facts:
-- 4 years of experience in software engineering;
+- 5 years of experience in software engineering;
 - co-founder of a startup;
 - mad about motorbikes;
 - participated in volunteer projects;
