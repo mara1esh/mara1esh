@@ -1,28 +1,22 @@
-### Hi, nice to see you 👋
+Hello! I'm Valerii, a dedicated Senior Front-End Engineer with a strong background in WEB3. 🛠
 
-My name is Valerii and I'm a passionate Senior Front-End engineer with WEB3 background 🛠 
-Among many frontend frameworks, tools, and technologies my favorites are TypeScript, React.js, Remix.run, Tailwind CSS, Radix UI, Vite, pnpm 💎
-Maintainer of [gtm-react-hook](https://github.com/mara1esh/gtm-react-hook) 📊
-Based in Kyiv, Ukraine 🇺🇦
+I have a deep appreciation for various frontend frameworks, tools, and technologies, with my top picks being:
+- TypeScript
+- React.js
+- Remix.run/Next.js
+- Apollo GraphQL/React-Query
+- Redux
+- Tailwind CSS
+- Radix UI/MUI/NextUI
+- Vite
+- pnpm
+- nx
 
-#### Personal achievements and fun facts:
-- 5 years of experience in software engineering;
-- co-founder of a startup;
-- mad about motorbikes;
-- participated in volunteer projects;
-- love olives;
-- would like to learn Portuguese.
-<!--
-**mara1esh/mara1esh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm also the proud maintainer of [gtm-react-hook](https://github.com/mara1esh/gtm-react-hook). 📊 Based in the vibrant city of Kyiv, Ukraine. 🇺🇦
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Personal Achievements and Fun Facts:
+- Over 5 years of experience in software engineering.
+- Co-founder of a startup.
+- Passionate about motorbikes.
+- Actively involved in volunteer projects.
+- Avid olive enthusiast!
